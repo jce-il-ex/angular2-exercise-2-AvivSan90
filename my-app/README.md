@@ -1,6 +1,6 @@
 #Firebase url for Exercise 2
 
-https://my-app-ex2.firebaseio.com/
+https://my-app-ex2.firebaseapp.com/
 
 # MyApp
 
