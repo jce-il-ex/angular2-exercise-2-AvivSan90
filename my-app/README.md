@@ -1,3 +1,7 @@
+#Firebase url for Exercise 2
+
+https://my-app-ex2.firebaseio.com/
+
 # MyApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
